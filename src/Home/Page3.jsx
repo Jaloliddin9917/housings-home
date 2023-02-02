@@ -26,7 +26,7 @@ export default function Page3({ isMobile }) {
           description
         </p>
         <div key="button">
-          <a>
+          <a href='#'>
             <Button type="primary" size="large">
               Development Analytics
               <Icon type="right" />

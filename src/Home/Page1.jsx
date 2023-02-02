@@ -23,7 +23,7 @@ export default function Page1({ isMobile }) {
         <h2 key="h2">Housing Prediction Model</h2>
         <p key="p" style={{ maxWidth: 310 }}>Depending on economic conditions</p>
         <div key="button">
-          <a>
+          <a href='#'>
             <Button type="primary" size="large">
               Buyer
               <Icon type="right" />
