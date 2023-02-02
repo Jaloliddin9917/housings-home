@@ -90,7 +90,7 @@ export default class Header extends React.Component {
         ) : null}
         <Row>
           <Col lg={4} md={5} sm={24} xs={24}>
-            <a href='#' id="logo">
+            <a href='/' id="logo">
               <img alt="logo" src="http://localhost:3003/static/media/logo.c8a77d674e3e54c884df.png" />
               <span>Kementerian Perumahan dan Kerajaan Tempatan </span>
             </a>

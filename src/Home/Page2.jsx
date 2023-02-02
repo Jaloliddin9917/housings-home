@@ -20,7 +20,7 @@ export default function Page2() {
         <h2 key="h2">Ministry Assessment</h2>
         <p key="p" style={{ maxWidth: 260 }}>description</p>
         <div key="button">
-          <a href='#'>
+          <a href='/'>
             <Button type="primary" size="large">
               Ministry Assessment
               <Icon type="right" />

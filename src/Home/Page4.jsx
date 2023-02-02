@@ -20,7 +20,7 @@ export default function Page2() {
         <h2 key="h2">Map Intelligence</h2>
         <p key="p" style={{ maxWidth: 260 }}>description</p>
         <div key="button">
-          <a href='#'>
+          <a href='/'>
             <Button type="primary" size="large">
               Map Intelligence
               <Icon type="right" />
